@@ -40,3 +40,8 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 ## Final Conclusion
 The Blinkit Power BI analysis is designed to uncover key insights into sales performance, product trends, and outlet effectiveness. By analyzing factors such as item type, fat content, outlet size, location, and establishment type, the project aims to identify opportunities for growth, optimize sales strategies, and support data-driven decision-making across the business.
+
+## 🔹 Author  
+👤 Created by **Shreya Kumari**  
+💼 Open to feedback & collaboration!  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kumarishreya13)
